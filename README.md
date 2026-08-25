@@ -1,28 +1,30 @@
-# Proteus DHT Temperature & Humidity Sensor Circuit 🌡️💧
+# Proteus DHT Sensor Interface
 
-Digital temperature and humidity sensor interface simulation schematic in Proteus EDA.
+Proteus EDA circuit simulation for digital temperature and humidity (DHT) sensor module interfacing.
 
-## Key Features ✨
-- Well-structured code and clean modular implementation.
-- Built with modern standard tools: **Proteus EDA 8.x, DHT Sensor Module, Digital Circuit Simulation**.
-- Clean data preprocessing, EDA, and model evaluation metrics.
+## Contents
+- **Code**: `Proteus_DHT_Sensor_Interface (code).pdsprj`
+- **Dataset / Resources**: `Circuit schematics and simulation workspace`
+- **Documentation**: `README.md`
 
-## Project Structure 📂
-```
-Proteus_DHT_Sensor_Interface/
-├── .gitignore
-├── README.md
-└── ... (project source files)
+## Requirements
+```bash
+pip install Proteus Design Suite 8.x
 ```
 
-## Setup & Installation 🚀
+## Usage
+1. Clone the repository:
 ```bash
 git clone https://github.com/Yuossef-Ashraf/Proteus_DHT_Sensor_Interface.git
 cd Proteus_DHT_Sensor_Interface
 ```
+2. Open and run the project code:
+```bash
+jupyter notebook "Proteus_DHT_Sensor_Interface (code).pdsprj"
+```
 
-## Author 👤
-Created and maintained by **Yuossef Ashraf**.
+## Author
+Yuossef Ashraf
 
-## License 📜
-Distributed under the MIT License.
+## License
+MIT License
