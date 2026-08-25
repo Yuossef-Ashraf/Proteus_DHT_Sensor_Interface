@@ -2,9 +2,9 @@
 
 Proteus EDA circuit simulation for digital temperature and humidity (DHT) sensor module interfacing.
 
-## Contents
+## Project Structure
 - **Code**: `Proteus_DHT_Sensor_Interface (code).pdsprj`
-- **Dataset / Resources**: `Circuit schematics and simulation workspace`
+- **Dataset / Resources**: `Proteus EDA schematic workspace files`
 - **Documentation**: `README.md`
 
 ## Requirements
@@ -18,7 +18,7 @@ pip install Proteus Design Suite 8.x
 git clone https://github.com/Yuossef-Ashraf/Proteus_DHT_Sensor_Interface.git
 cd Proteus_DHT_Sensor_Interface
 ```
-2. Open and run the project code:
+2. Run the project:
 ```bash
 jupyter notebook "Proteus_DHT_Sensor_Interface (code).pdsprj"
 ```
